@@ -11,13 +11,13 @@
 
   Static background
 
-  `python path_to_video.mp4`
+  `python main.py path_to_video.mp4`
 
   Moving background
 
   Change parameter 'motion' to True in line 43 of main.py, then run
 
-  `python path_to_video.mp4`
+  `python main.py path_to_video.mp4`
 
 
 - Data structure
